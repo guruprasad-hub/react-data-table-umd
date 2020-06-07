@@ -1,5 +1,4 @@
 {
-  "homepage": "http://guruprasad-hub.github.io/react-data-table-umd.git",
   "name": "data-table-umd",
   "version": "1.0.0",
   "description": "Mount react app UMD build on non-react app",
