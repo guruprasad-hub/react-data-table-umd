@@ -2,7 +2,7 @@ const path = require("path");
 const HTMLWebpackPlugin = require("html-webpack-plugin");
 const {CleanWebpackPlugin} = require("clean-webpack-plugin");
 const buildPath = path.join(__dirname, "build");
-console.log(buildPath)
+
 module.exports = (env, options) => {
     const servermode = options.mode === "development";
     return {
